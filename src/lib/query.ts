@@ -1,4 +1,4 @@
-import type { Programme } from '../data/programmes'
+import type { Programme } from '../../1-programmes-9318b0b6.ts'
 import type { Section } from '../data/meta'
 
 export type QueryState = {

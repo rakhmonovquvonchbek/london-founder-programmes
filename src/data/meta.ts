@@ -1,4 +1,4 @@
-import type { Programme } from './programmes'
+import type { Programme } from '../../1-programmes-9318b0b6.ts'
 
 export type Section = Programme['section']
 
