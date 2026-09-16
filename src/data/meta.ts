@@ -1,4 +1,4 @@
-import type { Programme } from './programmes'
+import type { Programme } from '../../1-programmes-9318b0b6.ts'
 
 export type Section = Programme['section']
 
@@ -70,4 +70,4 @@ export const DETAIL_FIELDS: { key: keyof Programme; label: string }[] = [
   { key: 'caveats', label: 'Caveats' },
 ]
 
-export const COMPARE_LIMIT = 3
+export { COMPARE_LIMIT } from '../lib/ids'
