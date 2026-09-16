@@ -1,4 +1,4 @@
-import type { Programme } from '../data/programmes'
+import type { Programme } from '../../1-programmes-9318b0b6.ts'
 import { DETAIL_FIELDS, SECTION_META } from '../data/meta'
 
 type CompareViewProps = {

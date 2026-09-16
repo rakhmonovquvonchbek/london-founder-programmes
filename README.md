@@ -2,6 +2,8 @@
 
 A searchable directory of London accelerators, university founder schemes and public pathways. Research currency: August 2026.
 
+The complete programme list is the original repo dataset in `1-programmes-9318b0b6.ts`. The app imports that file directly and does not subset or rewrite it.
+
 ## Run locally
 
 ```bash

@@ -366,7 +366,7 @@ kbd {
   display: flex;
   justify-content: space-between;
   gap: 8px;
-  align-items: end;
+  align-items: center;
   padding: 0 14px 14px;
 }
 
@@ -405,6 +405,8 @@ kbd {
   padding: 8px 12px;
   border: 1px solid var(--line);
   background: var(--card);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .compare-btn.is-on,

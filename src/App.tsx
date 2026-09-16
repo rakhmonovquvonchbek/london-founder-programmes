@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState, type FormEvent } from 'react'
-import { PROGRAMMES, type Programme } from './data/programmes'
+import { PROGRAMMES, type Programme } from '../1-programmes-9318b0b6.ts'
 import {
   COMPARE_LIMIT,
   SECTION_META,
