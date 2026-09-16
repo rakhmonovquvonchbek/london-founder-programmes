@@ -70,4 +70,4 @@ export const DETAIL_FIELDS: { key: keyof Programme; label: string }[] = [
   { key: 'caveats', label: 'Caveats' },
 ]
 
-export const COMPARE_LIMIT = 3
+export { COMPARE_LIMIT } from '../lib/ids'
